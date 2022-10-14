@@ -1,0 +1,11 @@
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.csproj.AssemblyReference.cache
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.csproj.SuggestedBindingRedirects.cache
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.Form1.resources
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.Properties.Resources.resources
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.csproj.GenerateResource.cache
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.csproj.CoreCompileInputs.cache
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\bin\Debug\Exercicio_Cod_Barras.exe.config
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\bin\Debug\Exercicio_Cod_Barras.exe
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\bin\Debug\Exercicio_Cod_Barras.pdb
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.exe
+C:\Users\abeca\source\repos\Exercicio_Cod_Barras\Exercicio_Cod_Barras\obj\Debug\Exercicio_Cod_Barras.pdb
